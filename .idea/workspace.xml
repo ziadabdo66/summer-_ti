@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f24d717-2450-47e7-9156-601e73a28d92" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XHTML File" />
+        <option value="HTML4 File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1wIi4q00LZFXG0YU4VV6Zrr5qKI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML4 File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\summer" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f24d717-2450-47e7-9156-601e73a28d92" name="Default Changelist" comment="" />
+      <created>1628152314962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628152314962</updated>
+      <workItem from="1628152316112" duration="1478000" />
+      <workItem from="1628153833082" duration="1575000" />
+      <workItem from="1628156181211" duration="943000" />
+      <workItem from="1628157771062" duration="1567000" />
+      <workItem from="1628160412552" duration="860000" />
+      <workItem from="1628416194191" duration="1647000" />
+      <workItem from="1628417886498" duration="1780000" />
+      <workItem from="1628419704907" duration="1779000" />
+      <workItem from="1628421589426" duration="1784000" />
+      <workItem from="1628423411281" duration="1799000" />
+      <workItem from="1628425256078" duration="629000" />
+      <workItem from="1628508226160" duration="1762000" />
+      <workItem from="1628510033179" duration="1774000" />
+      <workItem from="1628511846961" duration="1773000" />
+      <workItem from="1628513659687" duration="1776000" />
+      <workItem from="1628515473616" duration="165000" />
+      <workItem from="1628593715621" duration="1762000" />
+      <workItem from="1628595546025" duration="1780000" />
+      <workItem from="1628597361075" duration="1716000" />
+      <workItem from="1628599198605" duration="1780000" />
+      <workItem from="1628601052171" duration="1594000" />
+      <workItem from="1628621901439" duration="620000" />
+      <workItem from="1628625086264" duration="596000" />
+      <workItem from="1628688286840" duration="365000" />
+      <workItem from="1628763249678" duration="50000" />
+      <workItem from="1629075313935" duration="638000" />
+      <workItem from="1629495196933" duration="596000" />
+      <workItem from="1629495969545" duration="20000" />
+      <workItem from="1629722173777" duration="920000" />
+      <workItem from="1629724426160" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/student.php</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
